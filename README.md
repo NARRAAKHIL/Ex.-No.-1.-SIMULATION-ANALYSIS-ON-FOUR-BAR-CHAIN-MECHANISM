@@ -1,6 +1,6 @@
-# Ex. No.1 - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.1  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 23-09-24
+## DATE: 23-09-2024
 
 ## AIM:
 
@@ -53,7 +53,13 @@
 
 
 ## Output:
-![image](https://github.com/Adchayakiruthika18/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147139995/97830898-597a-45ab-a78c-b0e213a64e8d)
+![Screenshot 2024-09-22 195856](https://github.com/user-attachments/assets/ce17dfef-7f1c-433e-8c65-d662e4f338e6)
+![Screenshot 2024-09-22 195904](https://github.com/user-attachments/assets/d0addd50-c713-409c-93a0-2e14bcc15dfb)
+![Screenshot 2024-09-22 195910](https://github.com/user-attachments/assets/82cf18ab-de9c-4d95-bed8-7d4f570ae161)
+
+
+
+
 
 ### Name: NARRA AKHIL
 ### Register Number: 212223230136
